@@ -1,0 +1,85 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\e43694ecc51e53385e76269584311f93\\appcompat-1.2.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2735,2959,3074,3181,3294",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2730,2954,3069,3176,3289,3519"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,31,45,46,47,50,54,55,56,57",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "683,818,953,1028,1115,1999,2895,3014,3141,3363,3587,3702,3809,3922",
+                        "endLines": "13,14,15,16,30,44,45,46,49,53,54,55,56,60",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "813,948,1023,1110,1994,2890,3009,3136,3358,3582,3697,3804,3917,4147"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\c899ecd466205844fc754692a8d0b055\\material-1.1.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,320",
+                        "endLines": "5,9",
+                        "endColumns": "10,10",
+                        "endOffsets": "315,588"
+                    },
+                    "to": {
+                        "startLines": "64,68",
+                        "startColumns": "4,4",
+                        "startOffsets": "4302,4567",
+                        "endLines": "67,71",
+                        "endColumns": "10,10",
+                        "endOffsets": "4562,4835"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\values-v23\\Styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "692"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "678"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\8a3e54fd9f1beeec636fe003813e135c\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "61",
+                        "startColumns": "4",
+                        "startOffsets": "4152",
+                        "endLines": "63",
+                        "endColumns": "12",
+                        "endOffsets": "4297"
+                    }
+                }
+            ]
+        }
+    ]
+}

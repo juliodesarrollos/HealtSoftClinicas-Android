@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/grayBackground</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:datePickerStyle">@style/MySpinnerDatePicker</item>
+        <item name="listPreferredItemHeightSmall">40dp</item>
+    </style>
+
+    <style name="DialogTheme_transparent" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--You can set other style items also, such as animations and etc-->
+    </style>
+
+    <style name="editTextStyle">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/selector_color_1</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="MySpinnerDatePickerStyle" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:datePickerStyle">@style/MySpinnerDatePicker</item>
+    </style>
+
+    <style name="MySpinnerDatePicker" parent="android:Widget.Material.DatePicker" tools:targetApi="lollipop">
+        <item name="android:datePickerMode">spinner</item>
+    </style>
+
+    <style name="NavDrawerTextStyle" parent="Base.TextAppearance.AppCompat">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

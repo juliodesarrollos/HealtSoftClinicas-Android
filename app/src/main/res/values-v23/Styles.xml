@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/grayBackground</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:datePickerStyle">@style/MySpinnerDatePicker</item>
+        <item name="listPreferredItemHeightSmall">40dp</item>
+    </style>
+</resources>

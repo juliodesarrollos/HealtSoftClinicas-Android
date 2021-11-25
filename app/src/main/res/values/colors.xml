@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimaryAlfa">#A93490DC</color>
+    <color name="colorPrimary">#ff3490dc</color>
+    <color name="evento1">#9e247a</color>
+    <color name="evento2">#d0900a</color>
+    <color name="evento3">#1897bd</color>
+    <color name="evento4">#d5b069</color>
+    <color name="evento5">#37ac33</color>
+    <color name="evento6">#54267e</color>
+    <color name="evento7">#e22216</color>
+    <color name="evento8">#b66eb2</color>
+    <color name="evento9">#1b9271</color>
+    <color name="evento10">#1667b1</color>
+    <color name="evento11">#82cce0</color>
+    <color name="evento12">#d1b3ce</color>
+    <color name="evento13">#3490DC</color>
+    <color name="evento14">#028858</color>
+
+    <color name="color1">#000000</color>
+    <color name="color2">#9e247a</color>
+    <color name="color3">#d0900a</color>
+    <color name="color4">#1897bd</color>
+    <color name="color5">#d5b069</color>
+    <color name="color6">#37ac33</color>
+    <color name="color7">#54267e</color>
+    <color name="color8">#e22216</color>
+    <color name="color9">#b66eb2</color>
+    <color name="color10">#1b9271</color>
+    <color name="color11">#1667b1</color>
+    <color name="color12">#82cce0</color>
+    <color name="color13">#d1b3ce</color>
+    <color name="color14">#3490DC</color>
+    <color name="color15">#028858</color>
+
+    //New desing
+    <color name="backgroundMenu">#343A40</color>
+    <color name="primaryBlueColor">#0075E3</color>
+    <color name="primaryDarkBlueColor">#015EB5</color>
+    <color name="loginBackground">#D4FFDA</color>
+    <color name="loginBackgroundAlpha">#99D4FFDA</color>
+    <color name="grayBackground">#F5F5F5</color>
+    <color name="lightGrayBackground">#B3ACAC</color>
+    <color name="yellow">#FFAD00</color>
+    <color name="lightYellow">#FFF4BD</color>
+    <color name="darkYellow">#C8911B</color>
+    <color name="red">#FF0E00</color>
+    <color name="darkRed">#AE1F17</color>
+    <color name="transparente">#00000000</color>
+    <color name="green">#28DA22</color>
+    <color name="darkGreen">#0AAF06</color>
+    <color name="demo_dark_transparent">#24000000</color>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/lightYellow"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Activities.Historias.Activity_Preguntas">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_preguntas"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/grayBackground"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:popupTheme="@style/AppTheme.PopupOverlay"
+        tools:ignore="MissingConstraints">
+        <TextView
+            android:id="@+id/title_preguntas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Titulo del Toolbar"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:layout_gravity="center" />
+    </androidx.appcompat.widget.Toolbar>
+    <TextView
+        android:id="@+id/txtSinPreguntas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="visible"
+        android:text="Sin preguntas registrados"/>
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/refreshPreguntas"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:padding="7dp"
+        android:layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvPreguntas"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </androidx.recyclerview.widget.RecyclerView>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    <com.github.tibolte.agendacalendarview.widgets.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryAlfa"
+        android:elevation="0dp"
+        android:layout_gravity="end|bottom"
+        android:src="@drawable/ic_add"
+        android:tint="@color/white"
+        android:layout_margin="14dp" />
+</FrameLayout>

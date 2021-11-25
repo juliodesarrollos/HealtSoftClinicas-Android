@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Activities.Usuario.Activity_Menu_Principal">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_home"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/grayBackground"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:popupTheme="@style/AppTheme.PopupOverlay"
+        tools:ignore="MissingConstraints">
+        <TextView
+            android:id="@+id/title_principal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Titulo del Toolbar"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:layout_gravity="center" />
+    </androidx.appcompat.widget.Toolbar>
+
+    <fragment android:name="com.juliovazquez.hsclinic.Activities.Agenda.Fragment_Agenda"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:id="@+id/fragmentAgenda"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <fragment android:name="com.juliovazquez.hsclinic.Activities.Paciente.Fragment_Pacientes"
+        android:id="@+id/fragmentPacientes"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <fragment android:name="com.juliovazquez.hsclinic.Activities.Especialista.Fragment_Especialistas"
+        android:id="@+id/fragmentEspecialistas"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <fragment android:name="com.juliovazquez.hsclinic.Activities.Servicios.Fragment_Servicios"
+        android:id="@+id/fragmentServicios"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <fragment android:name="com.juliovazquez.hsclinic.Activities.Graficas.Fragment_Dashboard"
+        android:id="@+id/fragmentDashboard"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <fragment android:name="com.juliovazquez.hsclinic.Activities.Historias.Fragment_Historias_Clinicas"
+        android:id="@+id/fragmentHistorias"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <fragment android:name="com.juliovazquez.hsclinic.Activities.Graficas.Fragment_Graficas"
+        android:id="@+id/fragmentGraficas"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

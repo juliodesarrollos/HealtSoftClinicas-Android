@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    android:layout_margin="@dimen/common_15_dp"
+    android:id="@+id/globalView"
+    android:background="@color/lightYellow"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="145dp">
+    <LinearLayout
+        android:background="@color/lightYellow"
+        android:padding="@dimen/common_5_dp"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:background="@color/lightYellow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:gravity="left"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:background="@color/lightYellow"
+                android:id="@+id/imgIcon"
+                android:layout_width="@dimen/common_25_dp"
+                android:layout_height="@dimen/common_25_dp"
+                android:padding="2dp"
+                android:src="@drawable/ic_menu_historias_icon" />
+            <Button
+                android:background="@color/lightYellow"
+                android:id="@+id/btnHistoria"
+                android:layout_width="match_parent"
+                android:drawableRight="@drawable/ic_editar"
+                android:textAllCaps="false"
+                android:layout_height="@dimen/common_25_dp"
+                android:layout_marginLeft="@dimen/common_5_dp"
+                android:text="Geriatría" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="@dimen/common_5_dp"
+            android:id="@+id/brHistorias"
+            android:background="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:orientation="horizontal" />
+        <TextView
+            android:lines="3"
+            android:text="Servicio de geriatría"
+            android:id="@+id/txtDescripcionH"
+            android:padding="@dimen/common_5_dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/btnVer"
+            android:textAllCaps="false"
+            android:layout_width="match_parent"
+            android:text="Ver preguntas"
+            android:layout_marginRight="@dimen/common_5_dp"
+            android:textColor="@color/white"
+            android:layout_marginLeft="150dp"
+            android:layout_marginBottom="@dimen/common_5_dp"
+            android:background="@drawable/corner_radius_shape"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUK\\values-en-rUK.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\1abf8dcdb5c212a34090e07f7e0a7dca\\jetified-agendacalendarview-1.0.4\\res\\values-en-rUK\\values-en-rUK.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "235,283,340,396,457,501,545,585",
+                        "endColumns": "47,56,55,60,43,43,39,45",
+                        "endOffsets": "278,335,391,452,496,540,580,626"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,160,216,277,321,365,405",
+                        "endColumns": "47,56,55,60,43,43,39,45",
+                        "endOffsets": "98,155,211,272,316,360,400,446"
+                    }
+                }
+            ]
+        }
+    ]
+}

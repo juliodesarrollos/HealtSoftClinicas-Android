@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tibolte:agendacalendarview:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4ded402860fba4c9ad9a44c8d5d1c1b/jetified-agendacalendarview-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4ded402860fba4c9ad9a44c8d5d1c1b/jetified-agendacalendarview-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4ded402860fba4c9ad9a44c8d5d1c1b/jetified-agendacalendarview-1.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e89db0e6fd6c3a784fe0dd0e0fff6d5a/jetified-agendacalendarview-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e89db0e6fd6c3a784fe0dd0e0fff6d5a/jetified-agendacalendarview-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e89db0e6fd6c3a784fe0dd0e0fff6d5a/jetified-agendacalendarview-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1abf8dcdb5c212a34090e07f7e0a7dca/jetified-agendacalendarview-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1abf8dcdb5c212a34090e07f7e0a7dca/jetified-agendacalendarview-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1abf8dcdb5c212a34090e07f7e0a7dca/jetified-agendacalendarview-1.0.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tibolte/agendacalendarview/1.0.4/47722c7af4000e07490cb0a2ae5d767ebdcf3217/agendacalendarview-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tibolte/agendacalendarview/1.0.4/49fe71ec48ee4676e395080d43e6ae66c89ac90b/agendacalendarview-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

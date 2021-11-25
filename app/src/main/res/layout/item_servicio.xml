@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    android:layout_margin="@dimen/common_15_dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_margin="@dimen/common_5_dp"
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_height="150dp"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:gravity="left"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="@dimen/common_25_dp"
+                android:layout_height="@dimen/common_25_dp"
+                android:padding="2dp"
+                android:src="@drawable/ic_menu_servicios_icon" />
+            <Button
+                android:background="@color/white"
+                android:id="@+id/btnServicio"
+                android:layout_width="match_parent"
+                android:drawableRight="@drawable/ic_editar"
+                android:textAllCaps="false"
+                android:layout_height="@dimen/common_25_dp"
+                android:layout_marginLeft="@dimen/common_5_dp"
+                android:text="Servicio de geriatría" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="@dimen/common_5_dp"
+            android:background="@color/grayBackground"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+        <TextView
+            android:lines="4"
+            android:text="Servicio de geriatría"
+            android:id="@+id/txtComentario"
+            android:padding="@dimen/common_5_dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:id="@+id/txtCosto"
+            android:textStyle="bold"
+            android:layout_marginLeft="30dp"
+            android:text="$700.00MXN"
+            android:textColor="@color/primaryBlueColor"
+            android:layout_width="match_parent"
+            android:layout_height="25dp"/>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

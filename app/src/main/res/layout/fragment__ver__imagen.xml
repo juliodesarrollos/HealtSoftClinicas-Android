@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:backgroundTint="@color/white"
+    android:background="@drawable/corner_radius_shape"
+    android:layout_height="match_parent"
+    tools:context=".Activities.Paciente.Fragment_Ver_Imagen">
+
+    <!-- TODO: Update blank fragment layout -->
+    <WebView
+        android:id="@+id/imgFoto"
+        android:background="@drawable/corner_radius_shape"
+        android:backgroundTint="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+    <Button
+        android:layout_width="@dimen/common_50_dp"
+        android:layout_height="@dimen/common_50_dp"
+        android:text="x"
+        android:background="@color/transparente"
+        android:textColor="@color/primaryBlueColor"
+        android:textStyle="bold"
+        android:layout_gravity="right"
+        android:textSize="18sp"
+        android:id="@+id/btnClose"/>
+    <Button
+        android:drawableLeft="@drawable/ic_update_icon"
+        android:layout_width="@dimen/common_50_dp"
+        android:layout_height="@dimen/common_50_dp"
+        android:layout_marginLeft="10dp"
+        android:drawableTint="@color/primaryBlueColor"
+        android:background="@color/transparente"
+        android:textColor="@color/primaryBlueColor"
+        android:layout_gravity="left"
+        android:id="@+id/btnReload"/>
+
+</FrameLayout>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/corner_radius_shape"
+    android:backgroundTint="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.Agenda.Fragment_Agregar_Evento">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:minWidth="1000dp"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:paddingRight="@dimen/common_40_dp"
+                    android:paddingLeft="@dimen/common_40_dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/common_30_dp"
+                    android:gravity="center"
+                    android:text="Agendar cita"
+                    android:textColor="@color/primaryBlueColor"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+                <Button
+                    android:id="@+id/btnClose"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="x"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:padding="15dp"
+                    android:background="@color/transparente"
+                    android:textColor="@color/primaryBlueColor"
+                    android:gravity="end" />
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="vertical">
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Servicio:"/>
+                <EditText
+                    android:id="@+id/txtTitulo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/gray_border_radius"
+                    android:enabled="true"
+                    android:hint="Selecciona un servicio"
+                    android:inputType="text"
+                    android:maxLines="1"
+                    android:padding="7dp"
+                    android:textSize="13sp" />
+
+                <ListView
+                    android:id="@+id/lvServicios"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:visibility="gone"
+                    android:background="@drawable/gray_border_radius"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Paciente:"/>
+                <EditText
+                    android:id="@+id/txtPaciente"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/gray_border_radius"
+                    android:enabled="true"
+                    android:hint="Selecciona un paciente"
+                    android:inputType="text"
+                    android:maxLines="1"
+                    android:padding="7dp"
+                    android:textSize="13sp" />
+
+                <ListView
+                    android:id="@+id/lvPacientes"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:visibility="gone"
+                    android:background="@drawable/gray_border_radius"
+                    android:textSize="8sp" />
+
+
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Especialista:"/>
+                <EditText
+                    android:id="@+id/txtEspecialista"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/gray_border_radius"
+                    android:enabled="true"
+                    android:hint="Selecciona un especialista"
+                    android:inputType="text"
+                    android:maxLines="1"
+                    android:padding="7dp"
+                    android:textSize="13sp" />
+
+                <ListView
+                    android:id="@+id/lvEspecialistas"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:visibility="gone"
+                    android:background="@drawable/gray_border_radius"
+                    android:textSize="8sp" />
+
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Fecha y hora:"/>
+                <EditText
+                    android:id="@+id/txtDateTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/gray_border_radius"
+                    android:clickable="true"
+                    android:focusable="false"
+                    android:hint="Fecha y hora"
+                    android:inputType="datetime"
+                    android:maxLines="1"
+                    android:padding="7dp"
+                    android:textSize="13sp" />
+
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Color:"/>
+                <EditText
+                    android:id="@+id/txtColor"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/gray_border_radius"
+                    android:clickable="true"
+                    android:focusable="false"
+                    android:hint="Color"
+                    android:inputType="text"
+                    android:maxLines="1"
+                    android:padding="7dp"
+                    android:textSize="13sp" />
+
+                <LinearLayout
+                    android:id="@+id/layoutColor"
+                    android:layout_marginTop="20dp"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                        <RadioGroup
+                            android:id="@+id/colorGroup1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color1"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color1"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color2"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color2"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color3"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color3"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color4"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color4"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color5"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color5"
+                                android:clickable="true" />
+                        </RadioGroup>
+                        <RadioGroup
+                            android:id="@+id/colorGroup2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color6"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color6"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color7"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color7"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color8"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color8"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color9"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color9"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color10"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color10"
+                                android:clickable="true" />
+                        </RadioGroup>
+                        <RadioGroup
+                            android:id="@+id/colorGroup3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color11"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color11"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color12"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color12"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color13"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color13"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color14"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color14"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color15"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color15"
+                                android:clickable="true" />
+                        </RadioGroup>
+                </LinearLayout>
+
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Comentarios:"/>
+                <EditText
+                    android:id="@+id/txtComentario"
+                    android:layout_width="match_parent"
+                    android:layout_height="75dp"
+                    android:background="@drawable/gray_border_radius"
+                    android:enabled="true"
+                    android:hint="Agrega  un comentario"
+                    android:inputType="textMultiLine"
+                    android:gravity="top"
+                    android:scrollbars="vertical"
+                    android:maxLines="3"
+                    android:lines="3"
+                    android:padding="7dp"
+                    android:textSize="13sp" />
+
+                <Button
+                    android:id="@+id/btnAgregar"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginRight="30dp"
+                    android:backgroundTint="@color/green"
+                    android:background="@drawable/corner_radius_shape"
+                    android:text="Agendar  cita"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

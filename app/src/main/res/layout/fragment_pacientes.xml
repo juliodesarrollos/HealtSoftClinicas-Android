@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Activities.Paciente.Fragment_Pacientes">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/txtSinPacientes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:text="Sin pacientes registrados"/>
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/refreshPacientes"
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_margin="7dp"
+        android:layout_height="match_parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvPacientes"
+            android:visibility="visible"
+            android:background="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+    <com.github.tibolte.agendacalendarview.widgets.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryAlfa"
+        android:elevation="0dp"
+        android:layout_gravity="end|bottom"
+        android:src="@drawable/ic_menu_add_paciente_icon"
+        android:tint="@color/white"
+        android:contentDescription="Agregar usuario"
+        app:pressedTranslationZ="0dp"
+        android:layout_margin="14dp" />
+
+</FrameLayout>

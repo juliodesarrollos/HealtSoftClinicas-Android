@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:backgroundTint="@color/white"
+    android:background="@drawable/corner_radius_shape"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Activities.Paciente.Fragment_Agregar_Archivo">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:minWidth="1000dp"
+            android:orientation="vertical">
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:paddingRight="@dimen/common_40_dp"
+                    android:paddingLeft="@dimen/common_40_dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/common_30_dp"
+                    android:gravity="center"
+                    android:text="Historia clinica"
+                    android:textColor="@color/primaryBlueColor"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+                <Button
+                    android:id="@+id/btnClose"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="x"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:padding="15dp"
+                    android:background="@color/transparente"
+                    android:textColor="@color/primaryBlueColor"
+                    android:gravity="end" />
+            </FrameLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="vertical">
+                <TextView
+                    android:padding="@dimen/common_5_dp"
+                    android:layout_width="match_parent"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:textSize="13sp"
+                    android:id="@+id/txtHistoria"
+                    android:text="Seleccione una historia clinica"
+                    android:layout_margin="@dimen/common_5_dp"
+                    android:layout_height="wrap_content"/>
+                <ListView
+                    android:id="@+id/lvHistorias"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:background="@drawable/gray_border_radius"
+                    android:enabled="true"
+                    android:padding="7dp"
+                    android:textSize="13sp" />
+                <Button
+                    android:id="@+id/btnAgregar"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginRight="30dp"
+                    android:backgroundTint="@color/green"
+                    android:background="@drawable/corner_radius_shape"
+                    android:text="Agregar"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

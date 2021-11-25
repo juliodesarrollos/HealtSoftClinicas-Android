@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/corner_radius_shape"
+    android:backgroundTint="@color/white"
+    tools:context=".Activities.Paciente.Fragment_Editar_Respuesta">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:minWidth="1000dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:minWidth="1000dp"
+            android:orientation="vertical">
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:paddingRight="@dimen/common_40_dp"
+                    android:paddingLeft="@dimen/common_40_dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/common_30_dp"
+                    android:gravity="center"
+                    android:text="Editar respuesta"
+                    android:textColor="@color/primaryBlueColor"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+                <Button
+                    android:id="@+id/btnClose"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="x"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:padding="15dp"
+                    android:background="@color/transparente"
+                    android:textColor="@color/primaryBlueColor"
+                    android:gravity="end" />
+            </FrameLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/txtPregunta"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pregunta:"/>
+                <EditText
+                    android:id="@+id/txtRespuesta"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="120dp"
+                    android:background="@drawable/gray_border_radius"
+                    android:enabled="true"
+                    android:gravity="top"
+                    android:inputType="textMultiLine"
+                    android:padding="7dp"
+                    android:textSize="13sp" />
+                    <Button
+                        android:layout_gravity="center"
+                        android:layout_marginTop="@dimen/common_30_dp"
+                        android:id="@+id/btnEditar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="35dp"
+                        android:paddingRight="@dimen/common_40_dp"
+                        android:paddingLeft="@dimen/common_40_dp"
+                        android:backgroundTint="@color/yellow"
+                        android:background="@drawable/corner_radius_shape"
+                        android:text="Guardar cambios"
+                        android:textAllCaps="false"
+                        android:textColor="@color/white"
+                        android:textSize="18sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

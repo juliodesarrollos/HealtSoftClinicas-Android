@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment__agregar__notas.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment__agregar__notas.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_buscar.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\menu\\menu_buscar.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_estudios.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_estudios.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_splash_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-hdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_border.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\circle_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_agenda_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_menu_agenda_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_editar_historias.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_editar_historias.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\raw_loading_animation.json.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\raw\\loading_animation.json"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_paciente.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\item_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cerrar.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_cerrar.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_agendar_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_menu_agendar_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_servicio.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\item_servicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo_healtsoft.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_logo_healtsoft.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_archivo.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_archivo.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_historias.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\item_historias.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_splash_round.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-anydpi-v26\\splash_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_signos.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\item_signos.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_logout_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_menu_logout_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_agregar_archivo.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_agregar_archivo.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\raw_loading_heart_3.json.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\raw\\loading_heart_3.json"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_especialistas.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_especialistas.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_preguntas.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\activity_preguntas.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_agregar_pregunta.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_agregar_pregunta.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_progress_dialog.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_update_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_update_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_circle_border.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\blue_circle_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_agregar_historias.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_agregar_historias.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_splash.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_servicios_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_menu_servicios_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_editar_paciente.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_editar_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pacientes.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_pacientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notas_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_notas_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_editar_servicio.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_editar_servicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_busqueda.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\menu_busqueda.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment__ver__imagen.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment__ver__imagen.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_withe_circle_border.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\withe_circle_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_usuarios_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_menu_usuarios_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_splash_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_pregunta.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\item_pregunta.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_event_calendar.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\item_event_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_editar_especialista.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_editar_especialista.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_add_paciente_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_menu_add_paciente_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_agregar_especialista.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_agregar_especialista.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_splash_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xhdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gray_border.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\gray_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment__agregar__signos.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment__agregar__signos.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_llamar_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_llamar_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_agregar_paciente.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_agregar_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_principal.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\menu\\menu_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_item_background.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\nav_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_agregar_servicios.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_agregar_servicios.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_editar.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_editar.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xhdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_botton_radius_shape.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\botton_radius_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_editar_pregunta.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_editar_pregunta.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_historias_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_menu_historias_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mensaje_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_mensaje_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_estadisticas_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_menu_estadisticas_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment__agregar__estudio.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment__agregar__estudio.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_mas_info_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_menu_mas_info_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_notas.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\item_notas.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_signos.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_signos.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xxhdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_estudios_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_estudios_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_editar_permisos.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_editar_permisos.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_item_text.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\nav_item_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_principal.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\activity_menu_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\raw_loading_heart_2.json.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\raw\\loading_heart_2.json"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-hdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gray_border_radius.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\gray_border_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_inicio_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_menu_inicio_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notas.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_notas.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_contenido_menu_principal.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\contenido_menu_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fit_circle_border.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable-v24\\fit_circle_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\color_selector_color_1.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\color\\selector_color_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detalles_evento.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\activity_detalles_evento.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_editar.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\menu\\menu_editar.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable-v24\\fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_splash_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xxhdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_signos_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_signos_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_menu_home.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\header_menu_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment__respuestas.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment__respuestas.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_splash_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-mdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner_radius_shape.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\corner_radius_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_historias_clinicas.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_historias_clinicas.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_splash.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-anydpi-v26\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_paciente.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\activity_menu_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightgray_border.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\lightgray_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment__editar__respuesta.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment__editar__respuesta.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_agregar_evento.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_agregar_evento.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_pacientes_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_menu_pacientes_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_agenda.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_agenda.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ver_respuestas.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\activity_ver_respuestas.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_splash.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera_icon.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\drawable\\ic_camera_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-mdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\raw_loading_heart.json.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\raw\\loading_heart.json"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_graficas.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_graficas.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_servicios.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\layout\\fragment_servicios.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSClinic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

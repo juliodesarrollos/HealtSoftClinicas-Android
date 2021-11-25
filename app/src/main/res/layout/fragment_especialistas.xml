@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Activities.Especialista.Fragment_Especialistas">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/txtSinUsuarios"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:text="Sin usuarios registrados"/>
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/refreshUsuarios"
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_margin="7dp"
+        android:layout_height="match_parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvUsuarios"
+            android:layout_width="match_parent"
+            android:background="@color/white"
+            android:layout_height="match_parent">
+
+        </androidx.recyclerview.widget.RecyclerView>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+    <com.github.tibolte.agendacalendarview.widgets.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryAlfa"
+        android:elevation="0dp"
+        android:layout_gravity="end|bottom"
+        android:src="@drawable/ic_add"
+        android:tint="@color/white"
+        android:contentDescription="Agregar usuario"
+        app:pressedTranslationZ="0dp"
+        android:layout_margin="14dp" />
+
+</FrameLayout>

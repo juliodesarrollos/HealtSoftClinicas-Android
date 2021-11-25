@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "108299368140",
+    "project_id": "hsclinic-78b8e",
+    "storage_bucket": "hsclinic-78b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108299368140:android:d983173d9751362a9f3469",
+        "android_client_info": {
+          "package_name": "com.juliovazquez.hsclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108299368140-ontv8c89f1q2jm9rin4nk5nehfisot0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-oS6www5IaJlbO3Xsk2vD3QCiaJerQ4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108299368140-ontv8c89f1q2jm9rin4nk5nehfisot0q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "108299368140-mgro6baain4mm86ecdkh2co3enr33f91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Julio-Vazquez.HSClinic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

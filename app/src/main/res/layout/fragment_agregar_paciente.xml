@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/corner_radius_shape"
+    android:backgroundTint="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".Activities.Paciente.Fragment_Agregar_Paciente">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+        <LinearLayout
+            android:minWidth="1000dp"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:paddingRight="@dimen/common_40_dp"
+                    android:paddingLeft="@dimen/common_40_dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/common_30_dp"
+                    android:gravity="center"
+                    android:text="Crear paciente"
+                    android:textColor="@color/primaryBlueColor"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+                <Button
+                    android:id="@+id/btnClose"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="x"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:padding="15dp"
+                    android:background="@color/transparente"
+                    android:textColor="@color/primaryBlueColor"
+                    android:gravity="end" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_marginTop="@dimen/common_30_dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:id="@+id/imgPaciente"
+                    android:src="@drawable/ic_user"
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    tools:ignore="MissingConstraints">
+                </ImageView>
+                <ImageView
+                    android:gravity="center"
+                    android:id="@+id/imgContorno"
+                    android:layout_gravity="center"
+                    android:padding="@dimen/common_5_dp"
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:background="@drawable/blue_circle_border"
+                    tools:ignore="MissingConstraints" />
+                <Button
+                    android:layout_gravity="center"
+                    android:padding="@dimen/common_5_dp"
+                    android:layout_width="@dimen/common_25_dp"
+                    android:layout_height="@dimen/common_25_dp"
+                    android:drawableRight="@drawable/ic_camera_icon"
+                    android:background="@color/transparente"
+                    android:drawableTint="@color/green"
+                    android:id="@+id/btnFoto"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="35dp"
+                    tools:ignore="MissingConstraints" />
+            </FrameLayout>
+            <LinearLayout
+                android:layout_margin="15dp"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/txtNombre"
+                    android:background="@drawable/gray_border_radius"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:textSize="13sp"
+                    android:inputType="textPersonName"
+                    android:maxLines="1"
+                    android:hint="Nombre completo">
+                </EditText>
+                <EditText
+                    android:background="@drawable/gray_border_radius"
+                    android:padding="10dp"
+                    android:id="@+id/txtFechaNacimiento"
+                    android:hint="Fecha de nacimiento"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="datetime"
+                    android:textSize="13sp"
+                    android:focusable="false"
+                    android:clickable="true"
+                    android:layout_marginTop="20dp"
+                    android:maxLines="1" >
+                </EditText>
+
+                <EditText
+                    android:id="@+id/txtCorreo"
+                    android:background="@drawable/gray_border_radius"
+                    android:layout_marginTop="20dp"
+                    android:padding="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="13sp"
+                    android:maxLines="1"
+                    android:inputType="textEmailAddress"
+                    android:hint="Corre electrónico">
+                </EditText>
+
+                <EditText
+                    android:id="@+id/txtTelefono"
+                    android:background="@drawable/gray_border_radius"
+                    android:layout_marginTop="20dp"
+                    android:padding="10dp"
+                    android:maxLines="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="13sp"
+                    android:inputType="phone"
+                    android:hint="Telefono">
+                </EditText>
+
+                <Button
+                    android:layout_marginTop="30dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:background="@drawable/corner_radius_shape"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:id="@+id/btnAgregar"
+                    android:backgroundTint="@color/green"
+                    android:textSize="15sp"
+                    android:textAllCaps="false"
+                    android:layout_marginBottom="@dimen/common_15_dp"
+                    android:textColor="@color/white"
+                    android:text="Crear paciente"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_marginRight="@dimen/common_10_dp"
+    android:layout_marginLeft="@dimen/common_10_dp"
+    android:layout_marginBottom="@dimen/common_10_dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/lightYellow"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/txtNumero"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_25_dp"
+        android:text="Pregunta 1:"/>
+    <TextView
+        android:id="@+id/txtPregunta"
+        android:textStyle="bold"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:padding="7dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="¿Estas es una pregunta?"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0.01dp"
+        android:background="@color/black"/>
+</LinearLayout>

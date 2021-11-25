@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">108299368140-ontv8c89f1q2jm9rin4nk5nehfisot0q.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">108299368140</string>
+    <string name="google_api_key" translatable="false">AIzaSyA-oS6www5IaJlbO3Xsk2vD3QCiaJerQ4g</string>
+    <string name="google_app_id" translatable="false">1:108299368140:android:d983173d9751362a9f3469</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA-oS6www5IaJlbO3Xsk2vD3QCiaJerQ4g</string>
+    <string name="google_storage_bucket" translatable="false">hsclinic-78b8e.appspot.com</string>
+    <string name="project_id" translatable="false">hsclinic-78b8e</string>
+</resources>
